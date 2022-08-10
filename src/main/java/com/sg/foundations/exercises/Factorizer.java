@@ -3,7 +3,7 @@ package com.sg.foundations.exercises;
 import java.util.Scanner;
 
 public class Factorizer {
-    public static void main (String[] args){
+    public void playFactorizer(){
 
         System.out.print("What number would you like to factor? ");
         Scanner myScanner = new Scanner(System.in);

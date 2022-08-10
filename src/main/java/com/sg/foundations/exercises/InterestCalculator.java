@@ -4,7 +4,7 @@ import java.text.DecimalFormat;
 import java.util.Scanner;
 
 public class InterestCalculator {
-    public static void main(String[] args){
+    public void playInterestCalculator(){
         DecimalFormat f = new DecimalFormat("##.00");
 
         System.out.print("How much would you like to invest? ");

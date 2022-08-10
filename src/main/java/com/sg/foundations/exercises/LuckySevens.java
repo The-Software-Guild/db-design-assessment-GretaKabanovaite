@@ -4,7 +4,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class LuckySevens {
-    public static void main (String[] args){
+    public void playLuckySevens(){
 
         Random randomizer = new Random();
 
