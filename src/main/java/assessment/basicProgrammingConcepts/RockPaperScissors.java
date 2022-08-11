@@ -4,7 +4,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class RockPaperScissors {
-    public void playRockPaperScissors(){
+    public static void main(String[] args){
         Scanner myScanner = new Scanner(System.in);
         Random randomizer = new Random();
 
